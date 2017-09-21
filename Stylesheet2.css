@@ -1,0 +1,20 @@
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+	font-size:18px
+}
+
+p {
+    margin: 10 px; 
+    border-style: solid;
+    border-width: 2px;
+    color: red;
+	font-size: 18px
+	
+	}
+
